@@ -1,0 +1,15 @@
+pickle
+iedb
+Bio
+PyBioMed
+pandas
+os
+fastaparser
+sklearn
+uuid
+sys
+flask
+flask_cors
+flask_restful
+pickle
+fileinput
